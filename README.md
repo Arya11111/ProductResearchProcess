@@ -32,18 +32,18 @@ Robotshop：https://www.robotshop.com/ca/<br>
 淘宝、亚马逊、ebay
 
 ### 用户反馈（可选）
-调研同类产品的用户评价，总结该产品有哪些缺陷或优点，验证我们的产品是否能改进该缺陷，以增加我们的产品优势
+调研同类产品的用户评价，总结该产品有哪些缺陷或优点，验证我们的产品是否能改进该缺陷，以增加我们的产品竞争力
 
 ## 产品资料
 阅读产品技术文档，提炼核心功能，为封优质库做准备<br>
-调研市面上同类产品的资料，如数据手册、原理图、产品文档、参考库，并分析，我们的产品可以在哪些方面超越<br>
+调研市面上同类产品的资料，如数据手册、原理图、产品文档、参考库，分析我们的产品可以在哪些方面超越别的产品<br>
 
 ## 应用
 ### 调研渠道
-渠道一：YouTube <br>
-渠道二：https://hackaday.com/ <br>
-渠道三：https://www.instructables.com/ <br>
-渠道四：https://www.hackster.io/ <br>
+渠道1：YouTube <br>
+渠道2：https://hackaday.com/ <br>
+渠道3：https://www.instructables.com/ <br>
+渠道4：https://www.hackster.io/ <br>
 调研比较有特色，可以很好地体现产品功能的应用。<br>
 想几个比较有特色的应用<br>
 
