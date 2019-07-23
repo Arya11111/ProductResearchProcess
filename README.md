@@ -1,6 +1,5 @@
 # 调研流程
 该流程着重描写了通过哪些渠道收集产品的信息，以及从哪些方面调研产品，从而决定是否继续开发该产品。
-产品调研流程 <br>
 ## 大原则：
  * 调研同类产品，突出产品的优势
  * 调研产品资料，了解产品参数和功能
@@ -22,11 +21,11 @@
 用简单的几句话，介绍下产品，需体现产品的功能及用途。
 ## 竞品调研
 ### 竞品调研渠道：
-* 主要渠道
+* 主要渠道 <br>
 Adfruit：http://www.adafruit.com <br>
 SparkFun: http://www.sparkfun.com <br>
 Seeed: http://www.seeedstudio.com <br>
-* 其他渠道
+* 其他渠道 <br>
 微雪：http://www.waveshare.net/<br>
 Cooking Hacks：https://www.cooking-hacks.com/<br>
 Robotshop：https://www.robotshop.com/ca/<br>
@@ -39,19 +38,19 @@ Robotshop：https://www.robotshop.com/ca/<br>
 阅读产品技术文档，提炼核心功能，为封优质库做准备<br>
 调研市面上同类产品的资料，如数据手册、原理图、产品文档、参考库，并分析，我们的产品可以在哪些方面超越<br>
 
-##应用
+## 应用
 ### 调研渠道
-YouTube <br>
-https://hackaday.com/ <br>
-https://www.instructables.com/ <br>
-https://www.hackster.io/ <br>
-调研比较有特色，可以很好地体现产品功能的应用。
-想几个比较有特色的应用
+渠道一：YouTube <br>
+渠道二：https://hackaday.com/ <br>
+渠道三：https://www.instructables.com/ <br>
+渠道四：https://www.hackster.io/ <br>
+调研比较有特色，可以很好地体现产品功能的应用。<br>
+想几个比较有特色的应用<br>
 
-##设计
-针对产品设计，有什么好的建议，可以写出来
+## 设计
+针对产品设计，有什么好的建议，可以写出来.<br>
 
-##流程总结
+## 流程总结(可适当增减)
 * 产品介绍
 * 竞品调研
 * 技术特性分析
